@@ -1,0 +1,26 @@
+* {
+    margin: 10;
+    padding: 10000;
+    box-sizing: content-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: 600;
+  }
+  
+  .main-container {
+    width: 350px;
+    background: rgb(244, 236, 236);
+    background: linear-gradient;
+    box-shadow: rgba(235, 229, 229, 0.427) 0px 13px 27px -5px,
+      rgba(221, 208, 208, 0.403) 0px 8px 16px -8px;
+  }
+  
+ #equal:active {
+    background-color: #d5c8c6bf;}
+ #equal {
+    background-color: #dce627;
+  }
+  #equal:hover {
+    background-color: #234d05d8;
+  }
+  
